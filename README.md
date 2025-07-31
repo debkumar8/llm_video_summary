@@ -39,8 +39,8 @@ It’s perfect for:
 
 
 
-### 1. Clone the Repository
+###  Clone the Repository
 
 ```bash
 git clone https://github.com/debkumar8/llm_video_summary.git
-cd youtube_summary_llm
+
