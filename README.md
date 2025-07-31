@@ -37,7 +37,7 @@ It’s perfect for:
 
 ---
 
-## 🛠️ Setup Instructions
+
 
 ### 1. Clone the Repository
 
